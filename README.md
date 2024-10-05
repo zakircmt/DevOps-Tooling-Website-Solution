@@ -1,2 +1,2 @@
 # DevOps-Tooling-Website-Solution
-DevOps-Tooling-Website-Solution in AWS
+#3-tier Web Application Architecture with a single Database and an NFS Server as a shared files storage
